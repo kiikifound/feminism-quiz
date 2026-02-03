@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "dim": 0,
+    "reverse": false,
+    "text": "即使社会再平等，女性在一些事情上（比如生育、身体安全）还是会面对男性很少遇到的现实风险。",
+    "kind": "core"
+  },
+  {
+    "id": 2,
+    "dim": 0,
+    "reverse": true,
+    "text": "现在男女之间的差异，主要是被教育和社会期待造成的，而不是身体原因。",
+    "kind": "core"
+  },
+  {
+    "id": 3,
+    "dim": 0,
+    "reverse": false,
+    "text": "有些女性遇到的不公平，如果不考虑身体上的差异（比如生育、体力、安全），就很难说清楚原因。",
+    "kind": "core"
+  },
+  {
+    "id": 4,
+    "dim": 0,
+    "reverse": true,
+    "text": "只要社会规则足够公平，男女之间的大多数差异都可以消失。",
+    "kind": "core"
+  },
+  {
+    "id": 5,
+    "dim": 0,
+    "reverse": false,
+    "text": "在讨论性别问题时，我会特别在意身体经历（比如生育、身体安全、外貌评价）对女性生活的影响。",
+    "kind": "core"
+  },
+  {
+    "id": 6,
+    "dim": 1,
+    "reverse": false,
+    "text": "很多女性的处境，并不是“选错了”，而是本来就没什么好选项。",
+    "kind": "core"
+  },
+  {
+    "id": 7,
+    "dim": 1,
+    "reverse": true,
+    "text": "如果一个人足够努力和清醒，性别不会对她的人生造成太大影响。",
+    "kind": "core"
+  },
+  {
+    "id": 8,
+    "dim": 1,
+    "reverse": false,
+    "text": "即使是“自愿的选择”，也常常是在环境一步步推动下形成的。",
+    "kind": "core"
+  },
+  {
+    "id": 9,
+    "dim": 1,
+    "reverse": true,
+    "text": "把问题都怪到制度和环境上，会让人忽略个人责任。",
+    "kind": "core"
+  },
+  {
+    "id": 10,
+    "dim": 1,
+    "reverse": false,
+    "text": "当很多人都做出相似选择时，我更愿意先看看环境出了什么问题。",
+    "kind": "core"
+  },
+  {
+    "id": 11,
+    "dim": 2,
+    "reverse": false,
+    "text": "总体来说，男性在社会中更容易获得资源和机会。",
+    "kind": "core"
+  },
+  {
+    "id": 12,
+    "dim": 2,
+    "reverse": true,
+    "text": "把“男性”当作一个整体来讨论，本身就不太公平。",
+    "kind": "core"
+  },
+  {
+    "id": 13,
+    "dim": 2,
+    "reverse": false,
+    "text": "即使有一些男性处境不好，也不改变男性整体更占优势的事实。",
+    "kind": "core"
+  },
+  {
+    "id": 14,
+    "dim": 2,
+    "reverse": true,
+    "text": "性别问题主要是少数坏人造成的，和大多数男性关系不大。",
+    "kind": "core"
+  },
+  {
+    "id": 15,
+    "dim": 2,
+    "reverse": false,
+    "text": "在很多制度下，男性更容易被默认是“合适的人选”。",
+    "kind": "core"
+  },
+  {
+    "id": 16,
+    "dim": 3,
+    "reverse": false,
+    "text": "我不太相信性、审美和欲望能完全不受社会影响。",
+    "kind": "core"
+  },
+  {
+    "id": 17,
+    "dim": 3,
+    "reverse": true,
+    "text": "只要是自己愿意的，性方面的选择就不需要被别人评价。",
+    "kind": "core"
+  },
+  {
+    "id": 18,
+    "dim": 3,
+    "reverse": false,
+    "text": "当一种“性感”几乎都在取悦男性时，我会怀疑它是不是自由选择。",
+    "kind": "core"
+  },
+  {
+    "id": 19,
+    "dim": 3,
+    "reverse": true,
+    "text": "性是很私人的事情，把它上升到社会问题有点过头。",
+    "kind": "core"
+  },
+  {
+    "id": 20,
+    "dim": 3,
+    "reverse": false,
+    "text": "色情、性感文化对我们怎么看待女性身体的方式影响很大。",
+    "kind": "core"
+  },
+  {
+    "id": 21,
+    "dim": 4,
+    "reverse": false,
+    "text": "现在的工作制度和收入分配，对女性并不公平。",
+    "kind": "core"
+  },
+  {
+    "id": 22,
+    "dim": 4,
+    "reverse": true,
+    "text": "市场本身是中立的，谁有能力谁就能过得好。",
+    "kind": "core"
+  },
+  {
+    "id": 23,
+    "dim": 4,
+    "reverse": false,
+    "text": "如果照顾孩子、做家务这些事长期不被认真对待，女性就很难真正平等。",
+    "kind": "core"
+  },
+  {
+    "id": 24,
+    "dim": 4,
+    "reverse": true,
+    "text": "性别问题不应该和经济制度混在一起讨论。",
+    "kind": "core"
+  },
+  {
+    "id": 25,
+    "dim": 4,
+    "reverse": false,
+    "text": "就算一个女性再努力，如果环境和制度不变，她能改变的也很有限。",
+    "kind": "core"
+  },
+  {
+    "id": 26,
+    "dim": 5,
+    "reverse": false,
+    "text": "不同背景的女性，面对的问题差别其实非常大。",
+    "kind": "core"
+  },
+  {
+    "id": 27,
+    "dim": 5,
+    "reverse": true,
+    "text": "在性别问题上，其他身份差异可以先放一边。",
+    "kind": "core"
+  },
+  {
+    "id": 28,
+    "dim": 5,
+    "reverse": false,
+    "text": "有些打着“为女性考虑”名义的规则，其实更照顾条件好的人，而不是最困难的女性。",
+    "kind": "core"
+  },
+  {
+    "id": 29,
+    "dim": 5,
+    "reverse": true,
+    "text": "如果总是强调女性之间的不同，反而可能让大家更难站在一起。",
+    "kind": "core"
+  },
+  {
+    "id": 30,
+    "dim": 5,
+    "reverse": false,
+    "text": "我会特别关注那些处在多重不利位置的女性。",
+    "kind": "core"
+  },
+  {
+    "id": 31,
+    "dim": 1,
+    "reverse": false,
+    "text": "如果一件事长期对女性不利，即使有人说是“自愿的”，我也会先怀疑环境问题。",
+    "kind": "calibration"
+  },
+  {
+    "id": 32,
+    "dim": 3,
+    "reverse": true,
+    "text": "只要不伤害他人，别人如何生活、如何性感，都不该被过多干涉。",
+    "kind": "calibration"
+  },
+  {
+    "id": 33,
+    "dim": 4,
+    "reverse": false,
+    "text": "如果不改变收入、劳动和资源分配，很多平权讨论会停留在表面。",
+    "kind": "calibration"
+  },
+  {
+    "id": 34,
+    "dim": 5,
+    "reverse": false,
+    "text": "如果把“女性”理解成一种固定类型，反而可能限制一个人可以成为什么样的人。",
+    "kind": "calibration"
+  },
+  {
+    "id": 35,
+    "dim": 0,
+    "reverse": false,
+    "text": "如果女性有更多属于自己的空间和社群，可能会感到更安全，也更放松。",
+    "kind": "calibration"
+  },
+  {
+    "id": 36,
+    "dim": 3,
+    "reverse": false,
+    "text": "对色情和性产业的批评，并不一定是保守，而可能是对权力关系的质疑。",
+    "kind": "calibration"
+  },
+  {
+    "id": 37,
+    "dim": 1,
+    "reverse": true,
+    "text": "只要每个人为自己负责，性别带来的问题会慢慢消失。",
+    "kind": "consistency"
+  },
+  {
+    "id": 38,
+    "dim": 3,
+    "reverse": true,
+    "text": "欲望和审美基本是个人偏好，和社会环境关系不大。",
+    "kind": "consistency"
+  }
+]
